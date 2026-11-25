@@ -1,0 +1,6 @@
+# local backups made while building
+index.before-*.html
+
+# editor / tool settings
+.claude/
+.DS_Store
